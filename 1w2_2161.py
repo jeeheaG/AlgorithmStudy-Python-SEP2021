@@ -2,7 +2,7 @@
 from sys import stdin
 
 #전체 개수 입력
-n = int(input()) 
+n = int(input())
 #입력 받은 n값을 크기로, 데이터 입력받을 배열 생성
 data = [0]*n
 ##result[0]*n
