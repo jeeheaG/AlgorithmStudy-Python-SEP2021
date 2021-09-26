@@ -9,7 +9,7 @@ data = stdin.readline().rstrip()
 sum = 0
 r = 31
 n = [0]*L
-M = 1234567891 #-> ??
+M = 1234567891 
 
 #알파벳을 의미하는 숫자 반환 함수
 def alToNum(data) :
