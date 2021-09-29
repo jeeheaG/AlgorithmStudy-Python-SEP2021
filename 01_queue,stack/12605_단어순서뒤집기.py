@@ -1,4 +1,4 @@
-#12605
+#12605 단어순서 뒤집기 stack
 from sys import stdin
 
 #전체 개수 입력

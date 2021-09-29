@@ -1,4 +1,5 @@
-#2161 #comm. 파이썬 que문제는 deque활용해보기
+#2161 카드1 queue
+# #comm. 파이썬 queue문제는 deque활용해보기
 from sys import stdin
 
 #전체 개수 입력

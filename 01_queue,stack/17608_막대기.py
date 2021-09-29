@@ -1,4 +1,4 @@
-#17608
+#17608 막대기 stack
 from sys import stdin
 
 #전체 개수와 데이터 입력받
