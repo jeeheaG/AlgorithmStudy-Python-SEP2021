@@ -4,7 +4,6 @@ from sys import stdin
 #입력
 T = int(stdin.readline())
 #중첩 리스트 두 개 - 각 케이스의 나라&비행기수, 비행기목록
-# course = [0]*T
 course = []
 airplane = []
 for i in range(T) : 
